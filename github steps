@@ -1,0 +1,4 @@
+git clone url
+git add Count.java
+git commit
+git push
